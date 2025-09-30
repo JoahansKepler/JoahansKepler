@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoahansKepler im mexican developer
-- 👀 I’m interested in game developer, web developer and IA
-- 🌱 I’m student of physic on university of veracruz
+- 👀 I’m interested in python simulations
+- 🌱 I’m student of physic 
 - 📫 How to reach me ... Joahang23@gmail.com
 - ⚡ Fun fact: ... I learn anything, but expert in nothing
 
